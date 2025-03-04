@@ -1,0 +1,32 @@
+.top-menu li .cart-icon {
+    position: relative;
+  }
+  
+  .navbar-brand{
+    color: #007200
+  }
+  .top-menu li a {
+    color: #000;
+  }
+  .top-menu li button{
+    border: none;
+    background-color: transparent;
+  }
+  .top-menu li a svg,.top-menu li button svg {
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    /* background: #eee; */
+    background: rgb(255, 254, 254);
+    display: inline-block;
+    color: #007200;
+    /* color: #fb5c42; */
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .top-menu li span {
+    font-weight: 600;
+  }
+  
